@@ -1,21 +1,3 @@
-# birthday_card
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-
 # Birthday Card App
 
 A simple birthday card application built using Flutter and Dart. This project was developed as part of the **Complete Flutter & Dart Development Course** by Tharwat Samy on Udemy.
@@ -46,8 +28,8 @@ To run this project on your local machine, follow these steps:
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/birthday-card-app.git
-    cd birthday-card-app
+    git clone https://github.com/ahmed-arafa-0/birthday_card.git
+    cd birthday-card
     ```
 
 2. **Install dependencies:**
